@@ -32,7 +32,7 @@ For this project, we are working on the monthly mean temperature anomalies in de
    * RMSE
 
   # Result
-  Final model: *ARIMA(4,0,0)*
+*Final model: ARIMA(4,0,0)*
 Model | RMSE |
 --- | --- | 
 ARIMA | 0.197 | 

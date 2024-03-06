@@ -16,14 +16,10 @@ suppressPackageStartupMessages({
 # Time Series Data of Your Choice
 
 ## Background
-####This project will allow you to apply the learned time series analysis 
-####and forecasting skills to your own or favorite dataset. 
-####This dataset could be your own data (from your interested hobby 
-####groups, sports or video game records, previous jobs, past school 
-####works, etc). Notice that, we DON'T require data disclosure so please 
-####feel free to use your own data if you would like us to help you 
-####understand the result. Or if you don't have any time series dataset, 
-####please feel free to get one from the Internet. Any topics are welcome!
+####This project will allow you to apply the learned time series analysis and forecasting skills to your own or favorite dataset. 
+This dataset could be your own data (from your interested hobby groups, sports or video game records, previous jobs, past school works, etc). Notice that, we 
+DON'T require data disclosure so please feel free to use your own data if you would like us to help you understand the result. Or if you don't have any time series dataset, 
+please feel free to get one from the Internet. Any topics are welcome!
 
 ## Data Source 
 

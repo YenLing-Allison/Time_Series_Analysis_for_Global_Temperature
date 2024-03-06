@@ -11,9 +11,10 @@ General Requirements:
 
 # Data Source
 Data Source: https://datahub.io/core/global-temp?ref=hackernoon.com#readme  
-Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). Two datasets are provided: 1) global monthly mean and 2) annual mean temperature anomalies in degrees Celsius from 1880 to the present. 
-GCAG is global temperature anomaly data come from the Global Historical Climatology Network-Monthly (GHCN-M) data set and International Comprehensive Ocean-Atmosphere Data Set (ICOADS), which have data from 1880 to the present. 
-For this project, we are working on the monthly mean temperature anomalies in degree Celsius relative to a base period from 1880 to 2016 with GCAG data. 
+Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG).  
+Two datasets are provided: 1) global monthly mean and 2) annual mean temperature anomalies in degrees Celsius from 1880 to the present.  
+GCAG is global temperature anomaly data come from the Global Historical Climatology Network-Monthly (GHCN-M) data set and International Comprehensive Ocean-Atmosphere Data Set (ICOADS), which have data from 1880 to the present.  
+For this project, we are working on the monthly mean temperature anomalies in degree Celsius relative to a base period from 1880 to 2016 with GCAG data.  
 
 # Analysis Process
 1. Training and testing data split
